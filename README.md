@@ -1,4 +1,4 @@
-# 🚀 Fitness Exercise
+# 🚀 Fitness Exercises
 
 ## Problem Statement
 
